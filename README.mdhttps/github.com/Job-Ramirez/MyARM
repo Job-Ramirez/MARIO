@@ -1,0 +1,19 @@
+### Disclaimer
+This Repository is meant to archive the code that used on one of my undergrad research projects, MARIO. For more detailed information about this and other projects please visit my portfolio website.
+
+# MARIO
+Mario is a kinematically simple 5 DOF robotic arm setup that I created with the purpose of learning fundamental concepts of robotics. It got started as a design challenge for opening a toaster oven using a robotic arm. However soon after achieving that goal, I start using MARIO as an experimental setup for inverse kinematics, forward kinematics, and trajectory generation.
+
+## Getting Started
+The arm’s rotational and linear servos are controlled with MATLAB, which easily allows for the storage and process of data, i.e. joint variables. 
+
+### Installing Dynamixel (RX-24F) SDK 
+Preperaing Software (enabeling paths)
+https://www.youtube.com/watch?time_continue=3&v=RcnVYqhGYiQ
+https://www.youtube.com/watch?v=znlH9_rIfsA
+https://www.youtube.com/watch?v=eGG-RIVKtrs
+
+### Installing Arduino Support from MATLAB
+Some of the servos in the robot are controlled form MATLAB thorugh the arduino.
+https://www.mathworks.com/hardware-support/arduino-matlab.html
+
