@@ -1,6 +1,6 @@
 
 # About It 
-Mario is a kinematically simple 5 DOF robotic arm setup that I created with the purpose of learning fundamental concepts of robotics. It got started as a design challenge for opening a toaster oven using a robotic arm. However soon after achieving that goal, I start using MARIO as an experimental setup for inverse kinematics, forward kinematics, and trajectory generation. 
+Mario is a kinematically simple 5 DOF robotic arm setup that I created with the purpose of learning fundamental concepts of robotics. It got started as a design challenge for opening a toaster oven using a robotic arm. However, soon after achieving that goal, I started using MARIO as an experimental setup for inverse kinematics, forward kinematics, and trajectory generation. 
 This Repository is meant to archive the code that used on this projects, MARIO. For more detailed information about this and other projects please visit my portfolio website.
 
 # Necessary Installments
